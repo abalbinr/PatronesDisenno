@@ -1,5 +1,3 @@
-package TemplateMethod;
-
 public class Football extends Game {
 
    @Override

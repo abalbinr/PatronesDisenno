@@ -1,5 +1,3 @@
-package TemplateMethod;
-
 public class Cricket extends Game {
 
    @Override
